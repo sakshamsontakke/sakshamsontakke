@@ -1,33 +1,15 @@
-# Hi, I'm Saksham 👋
+# Hi, I'm Saksham Sontakke 👋
 
-## 🚀 About Me
+I'm an aspiring Computer Science engineer with a deep interest in technology, software development, and emerging innovations that shape the future. I enjoy exploring complex ideas, building projects, and continuously expanding my understanding of computing through hands-on learning and experimentation.
 
-- B.Tech Student
-- C++ Developer
-- Learning DSA
-- Interested in AI, ML, Robotics and Game Development
+My interests span across software engineering, artificial intelligence, machine learning, robotics, cybersecurity, data science, game development, and other rapidly evolving areas of technology. I believe in learning by building, solving real-world problems, and maintaining a strong foundation in core computer science concepts.
 
-## 🛠️ Tech Stack
+This GitHub profile serves as a collection of my projects, learning journey, experiments, and contributions as I continue growing as a developer and engineer.
 
-- C++
-- Python
-- MySQL
-- Pandas
-- Matplotlib
-- Git & GitHub
+---
 
-## 📚 Currently Learning
+### Connect With Me
 
-- Data Structures & Algorithms
-- Modern C++
-- Machine Learning
-- Software Development
+LinkedIn: https://www.linkedin.com/in/saksham-sontakke/
 
-## 🌟 Featured Project
-
-### Cpp-Mastery
-A complete C++ learning repository covering Fundamentals, OOP, STL, DSA and Projects.
-
-## 📫 Connect With Me
-
-GitHub: github.com/sakshamsontakke
+GitHub: https://github.com/sakshamsontakke
