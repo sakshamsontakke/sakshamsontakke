@@ -1,90 +1,15 @@
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<pre>
-                                                    
- ::::::::::::  .  #:         :..::::::::::::::::::: 
- ::::::::::.   @@@   .@@@@@     .::::::::::::.::::: 
- :::::::::.  *@#@-@@@@  .=@@@@    .:::::::.:::::::: 
- :::::::::  @@@@@@@@@@@@@@@ @@@@*  :::.:::::.:.:... 
- ::::::.:  @@@@ @@@@@@@@@@#%= @@@@  :..::::::::.::: 
- :::::::. @@@@:@@@@@@@@@@@@@@@@@ @  .:::.:.::::.:.: 
- :.:::::  @@ @@+ @@.        -@@@ @@  ::...::..:::.. 
- ::..::::  @@@@@@@@ @-:....  :@@ @@@ :::.:.....:..: 
- ..::::::   @@+#@  .-:=.     :#@ %@@ ..:........... 
- .....::.:   @*:*      =@@@@@-@@@@   .....:....:..: 
- .:..:...:.  #@ .#@@* +%%.   - @@%  ............... 
- ..:.::..... :@@-@:@-.@%=*@@@- @ -- ............... 
- ........... .@:.::@ +.=.:   : @ +# ............    
- :::........  @.   @  .@  .    @.@   .   .      ... 
- ...........  @=   @@@@:    ..*@-=   .              
- ............ @@:@@@:+++@@=:*%@@    .               
- ............  @@  =.+:..  -#+@          .          
- :... .. .      @@:  =   -  @@@                   . 
- .....:.......   @@@ .  @@@@@ %                 .   
-                  =@@@@@@@@   @@                  . 
-                   %-.      .:+@@@@@       ... .... 
- ...-:...         @%=%.:-  .    @@@@@@@@@           
- :: .           @@@    .=:   %@@@@@%%%%%@@@@@*    : 
- ---=+++   #@@@@@@@@@@@    @@@@%%%%%%%%%%%@@@@@@    
- *+++=:  @@@@%@@@%@@@@  #@@@####%%%%%%@#%%%+%%@@@@  
- ----: *@@@%@%%%%@@@#@-@@@@#%@@@%%%%%%%#@###@#%%#@@ 
- ----  @@%@@@@%%%%%@%@@@##%@@@%%@%%%%%#%@##*#@@*%%@ 
- .    @@%@@@%%%@%%@@@%#%@@%%%##%%%%%%%#%@#*@@*%#%#@#
- #@%# @@@@@@%%@@%%@#:#%%%%%%%%@%%%%@%%@#@*%@@%@*@%#*
-      @@***+++++==-=++===+==----:---:-=.--@----:+--*
-</pre>
-
-</td>
-
-<td width="50%" valign="top">
-
 # Hi, I'm Saksham Sontakke 👋
 
-### 🚀 Computer Science Engineer
+I'm an aspiring Computer Science engineer with a deep interest in technology, software development, and emerging innovations that shape the future. I enjoy exploring complex ideas, building projects, and continuously expanding my understanding of computing through hands-on learning and experimentation.
 
-I'm an aspiring **Computer Science engineer** with a strong interest in technology, software development, and emerging innovations that shape the future.
+My interests span across software engineering, artificial intelligence, machine learning, robotics, cybersecurity, data science, game development, and other rapidly evolving areas of technology. I believe in learning by building, solving real-world problems, and maintaining a strong foundation in core computer science concepts.
 
-I enjoy **building projects, experimenting with new technologies, solving problems, and learning by doing**.
+This GitHub profile serves as a collection of my projects, learning journey, experiments, and contributions as I continue growing as a developer and engineer.
 
-### 💻 Areas I'm Exploring
+---
 
-* Software Engineering
-* Artificial Intelligence & Machine Learning
-* Robotics
-* Cybersecurity
-* Data Science
-* Game Development
-* Web Development
-* Emerging Technologies
+### Connect With Me
 
-### 🧠 My Approach
+LinkedIn: https://www.linkedin.com/in/saksham-sontakke/
 
-> **Learn → Build → Experiment → Improve**
-
-I believe the best way to understand technology is by building real things, breaking them, fixing them, and continuously improving.
-
-This GitHub profile is a collection of my:
-
-* 🛠️ Projects
-* 🧪 Experiments
-* 📚 Learning journey
-* 💡 Ideas
-* 🤝 Contributions
-
-### 🌐 Connect With Me
-
-**LinkedIn:**
-[linkedin.com/in/saksham-sontakke](https://www.linkedin.com/in/saksham-sontakke/)
-
-**GitHub:**
-[github.com/sakshamsontakke](https://github.com/sakshamsontakke)
-
-</td>
-</tr>
-</table>
-
-</div>
+GitHub: https://github.com/sakshamsontakke
